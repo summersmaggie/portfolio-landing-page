@@ -2,13 +2,14 @@
   margin: auto;
   width: 50%;
   text-align: center;
-  padding: 12px;
+  padding: 20px;
 }
 
 .image {
   margin: auto;
   width: 50%;
   align-content: center;
+  padding: 20px;
 }
 
 .description {
@@ -19,8 +20,8 @@
 
 .description p {
   text-align: center;
-  padding: 30px;
   font-size: 15px;
+  padding: 20px;
 }
 
 .featured-projects {
@@ -36,5 +37,9 @@
 }
 
 .featured-projects h2 {
+  text-decoration: underline;
+}
+
+.aboutme h2 {
   text-decoration: underline;
 }
