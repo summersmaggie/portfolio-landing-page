@@ -1,0 +1,11 @@
+.header {
+  text-align: center;
+  padding: 10px;
+  margin: 12px;
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+  align-content: center;
+}
