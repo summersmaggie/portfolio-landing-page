@@ -3,6 +3,7 @@
   width: 50%;
   text-align: center;
   padding: 20px;
+  border: 1px solid black;
 }
 
 .image {
@@ -22,6 +23,7 @@
   text-align: center;
   font-size: 15px;
   padding: 20px;
+  border: 1px solid black;
 }
 
 .featured-projects {
@@ -34,14 +36,14 @@
 .background {
   padding: 10px;
   margin: 12px;
-  background-color: #d1d1e0;
+  background-color: #e0e0eb;
   border: 1px solid black;
 }
 
 .interests {
   padding: 10px;
   margin: 12px;
-  background-color: #c2c2d6;
+  background-color: #e0e0eb;
   border: 1px solid black;
 }
 
@@ -49,7 +51,7 @@ h2 {
   text-decoration: underline;
 }
 
-.featured-projects h3 {
+h3 {
   font-style: italic;
 }
 
