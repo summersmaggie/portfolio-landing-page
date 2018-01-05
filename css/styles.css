@@ -27,32 +27,32 @@
 .featured-projects {
   padding: 10px;
   margin: 12px;
-  background-color: #e6e8ed;
+  background-color: #e0e0eb;
   border: 1px solid black;
 }
 
 .background {
   padding: 10px;
   margin: 12px;
-  background-color: #e6e8ed;
+  background-color: #d1d1e0;
   border: 1px solid black;
 }
 
 .interests {
   padding: 10px;
   margin: 12px;
-  background-color: #e6e8ed;
+  background-color: #c2c2d6;
   border: 1px solid black;
 }
 
-.featured-projects h2 {
+h2 {
   text-decoration: underline;
 }
 
-.interests h2 {
-  text-decoration: underline;
+.featured-projects h3 {
+  font-style: italic;
 }
 
-.background h2 {
-  text-decoration: underline;
+.background ul {
+  list-style-type: none;
 }
