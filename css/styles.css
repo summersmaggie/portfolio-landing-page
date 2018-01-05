@@ -36,14 +36,14 @@
 .background {
   padding: 10px;
   margin: 12px;
-  background-color: #d1c1e0;
+  background-color: #e0d6ea;
   border: 1px solid black;
 }
 
 .interests {
   padding: 10px;
   margin: 12px;
-  background-color: #ddd1e7;
+  background-color: #e0d6ea;
   border: 1px solid black;
 }
 
@@ -60,12 +60,11 @@ h3 {
 }
 
 .sidebar {
-  width: 30%;
   float: right;
   background-color: #e0d6ea;
-  padding: 20px;
+  padding: 10px;
   border: 1px solid black;
-  margin: 10px;
+  margin: 20px;
 }
 
 .sidebar img {
@@ -77,4 +76,17 @@ h3 {
 
 .sidebar h3 {
   font-style: normal;
+}
+
+.blog {
+  padding: 5px;
+  margin: 12px;
+}
+
+.well {
+  padding: 10px;
+}
+
+h4 {
+  text-align: center;
 }
