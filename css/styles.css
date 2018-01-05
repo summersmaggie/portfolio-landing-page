@@ -28,3 +28,13 @@
   margin: 12px;
   background-color: #e6e8ed;
 }
+
+.aboutme {
+  padding: 10px;
+  margin: 12px;
+  background-color: #e6e8ed;
+}
+
+.featured-projects h2 {
+  text-decoration: underline;
+}
