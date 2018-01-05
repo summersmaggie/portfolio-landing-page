@@ -1,15 +1,16 @@
-# _Maggie Summers Portfolio_
+# _Maggie Summers' Portfolio_
 
-#### _This is a Web page for Maggie Summers' portfolio, containing featured projects and information about me. , 1.5.18_
+#### _HTML & CSS Code Review for Epicodus, 1.5.18_
 
 #### By _Maggie Summers_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This webpage is a reflection of Maggie Summers' portfolio. It contains descriptions of and links to featured Github projects, as well as information about me, including my interests and education._
 
 ## Setup/Installation Requirements
 
+* Access files here: https://github.com/summersmaggie/portfolio-landing-page
 * Clone or download from Git Depository
 * Open index.html with Google Chrome
 
@@ -19,7 +20,7 @@ _Please contact me if you run into any issues or have questions, ideas or concer
 
 ## Technologies Used
 
-_I used HTML, CSS and Bootstrap to create this Web page._
+_I used HTML, CSS and Bootstrap to create this webpage._
 
 ### License
 
