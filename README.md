@@ -10,7 +10,8 @@ _This webpage is a reflection of Maggie Summers' portfolio. It contains descript
 
 ## Setup/Installation Requirements
 
-* Access files here: https://github.com/summersmaggie/portfolio-landing-page
+* View portfolio here: https://summersmaggie.github.io/portfolio-landing-page/
+* View repo here: https://github.com/summersmaggie/portfolio-landing-page
 * Clone or download from Git Depository
 * Open index.html with Google Chrome
 
