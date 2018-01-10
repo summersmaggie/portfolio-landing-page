@@ -3,7 +3,6 @@
   width: 50%;
   text-align: center;
   padding: 20px;
-  border: 1px solid black;
 }
 
 .image {
@@ -23,28 +22,24 @@
   text-align: center;
   font-size: 15px;
   padding: 20px;
-  border: 1px solid black;
   font-family: 'Mukta Malar', sans-serif;
 }
 
 .featured-projects {
   padding: 10px;
   margin: 12px;
-  background-color: #e0d6ea;
   border: 1px solid black;
 }
 
 .background {
   padding: 10px;
   margin: 12px;
-  background-color: #e0d6ea;
   border: 1px solid black;
 }
 
 .interests {
   padding: 10px;
   margin: 12px;
-  background-color: #e0d6ea;
   border: 1px solid black;
 }
 
@@ -107,4 +102,16 @@ ul {
 
 ol {
   font-family: 'Mukta Malar', sans-serif;
+}
+
+.footer img {
+  width: 30px;
+  height: 30px;
+  float: right;
+  padding: 5px;
+}
+
+.footer {
+  margin-bottom: 10px;
+  margin: 30px;
 }
